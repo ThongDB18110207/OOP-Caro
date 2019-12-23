@@ -1,0 +1,82 @@
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe.config
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.pdb
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csprojAssemblyReference.cache
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Form1.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Properties.Resources.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.GenerateResource.cache
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.exe
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.pdb
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe.config
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.pdb
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Form1.resources
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Properties.Resources.resources
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.exe
+C:\Users\Asus\Desktop\GameCaro_OOP_TuongThong\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.pdb
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe.config
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.pdb
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Form1.resources
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Properties.Resources.resources
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.exe
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.pdb
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.MediaPlayer.resources
+C:\Users\Asus\Desktop\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.AboutForm.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe.config
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.pdb
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\bin\Debug\Interop.WMPLib.dll
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\bin\Debug\AxInterop.WMPLib.dll
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csprojAssemblyReference.cache
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\Interop.WMPLib.dll
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\AxInterop.WMPLib.dll
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.ResolveComReference.cache
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.AboutForm.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Form1.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.MediaPlayer.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Properties.Resources.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.GenerateResource.cache
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.exe
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Thông\Thu\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.pdb
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe.config
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.pdb
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\bin\Debug\Interop.WMPLib.dll
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\bin\Debug\AxInterop.WMPLib.dll
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csprojAssemblyReference.cache
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\Interop.WMPLib.dll
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\AxInterop.WMPLib.dll
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.ResolveComReference.cache
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.AboutForm.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Form1.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.MediaPlayer.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Properties.Resources.resources
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.GenerateResource.cache
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.exe
+E:\luubai\OOP\DoAnCaRo\GameCaro_OOP_TuongThong\Chieu_11_12\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.pdb
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe.config
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.exe
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\bin\Debug\GameCaro_OOP_TuongThong.pdb
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\bin\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csprojAssemblyReference.cache
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\Interop.WMPLib.dll
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.ResolveComReference.cache
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.AboutForm.resources
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Form1.resources
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.MediaPlayer.resources
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.Properties.Resources.resources
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.exe
+C:\Users\Asus\Desktop\Báo cáo đồ án\DoAn_GameCaro\GameCaro_OOP_TuongThong\obj\Debug\GameCaro_OOP_TuongThong.pdb

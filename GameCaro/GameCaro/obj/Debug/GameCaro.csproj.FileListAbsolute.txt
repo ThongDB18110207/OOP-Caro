@@ -1,9 +1,0 @@
-E:\OOP\GameCaro\GameCaro\bin\Debug\GameCaro.exe.config
-E:\OOP\GameCaro\GameCaro\bin\Debug\GameCaro.exe
-E:\OOP\GameCaro\GameCaro\bin\Debug\GameCaro.pdb
-E:\OOP\GameCaro\GameCaro\obj\Debug\GameCaro.csprojAssemblyReference.cache
-E:\OOP\GameCaro\GameCaro\obj\Debug\GameCaro.Form1.resources
-E:\OOP\GameCaro\GameCaro\obj\Debug\GameCaro.Properties.Resources.resources
-E:\OOP\GameCaro\GameCaro\obj\Debug\GameCaro.csproj.GenerateResource.cache
-E:\OOP\GameCaro\GameCaro\obj\Debug\GameCaro.exe
-E:\OOP\GameCaro\GameCaro\obj\Debug\GameCaro.pdb

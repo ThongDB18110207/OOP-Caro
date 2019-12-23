@@ -1,0 +1,13 @@
+﻿I. Giới thệu đề tài (Thông)
+	1. Lý do chọn đề tài
+	2. Mục tiêu đề tài
+II. Quá trình thực hiện
+	1. Thiết kế giao diện (Tường)
+	2. Các giải thuật được sử dụng (Thông)
+	3. Sản phẩm hoàn thành (Cài đặt và kiểm thử) (Tường)
+III. Bảng phân công công việc
+IV. Bài học kinh nghiệm (Thông)
+V. Kết luận
+	1. Đánh giá mức độ hoàn thành (Thông)
+	2. Các khó khăn (Tường)
+	3. Hướng phát triển (Tường)
